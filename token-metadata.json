@@ -1,0 +1,22 @@
+{
+  "name": "The Brain!",
+  "symbol": "THEBRAIN",
+  "image": "https://ibb.co/T4ZM5jb",
+  "seller_fee_basis_points": 500,
+  "creators": [
+    {
+      "name": "Jota Te Dinero",
+      "address": "52JUHf77w1K43Gqa5WFUWK7ku31gqVfmrvznBRncK1vW",
+      "share": 100
+    }
+  ],
+  "tags": [],
+  "description": "The Brain! Token",
+  "website": "https://yourtokenwebsite.com",
+  "extensions": {
+    "website": "https://yourtokenwebsite.com",
+    "twitter": "",
+    "discord": ""
+  }
+}
+
