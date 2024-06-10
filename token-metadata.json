@@ -1,7 +1,7 @@
 {
   "name": "The Brain!",
   "symbol": "THEBRAIN",
-  "image": "https://ibb.co/T4ZM5jb",
+  "image": "https://github.com/mydung5786/token-list/blob/main/image.png?raw=true",
   "seller_fee_basis_points": 500,
   "creators": [
     {
@@ -11,7 +11,7 @@
     }
   ],
   "tags": [],
-  "description": "The Brain! Token",
+  "description": "The Brain!",
   "website": "https://github.com/mydung5786/token-list/blob/main/token-metadata.json",
   "extensions": {
     "website": "https://github.com/mydung5786/token-list/blob/main/token-metadata.json",
